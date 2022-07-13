@@ -1,7 +1,7 @@
 ---
-title: "Obi's Gebäudereinigung"
+title: "Obis Gebäudereinigung"
 date: 2022-07-12T11:17:15+02:00
-draft: true
+draft: false
 ---
 
 # Title
