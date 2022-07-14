@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris"
+title = "Obis Gebäudereinigung"
 baseURL = "https://coruscating-pastelito-b80125.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
@@ -27,9 +27,9 @@ enableRobotsTXT = true
   recent_posts_number = 3
   custom_css= ["mycss.css"]
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+#[[params.ananke_socials]]
+#name = "twitter"
+#url = "https://twitter.com/GoHugoIO"
 
 [markup]
   [markup.goldmark]

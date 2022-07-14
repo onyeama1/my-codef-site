@@ -1,2 +1,6 @@
 .bg-black {background-image: URL("https://i.stack.imgur.com/NEuip.jpg");}
 .lh-title {height: 10px !important; line-height: 15px; }
+# article h1 {text-align: left; }
+# h1 .f3 <a href="/hi">Kontakt </a> 
+.backbutton {font-size: 15px; color: blue}
+# .center {margin-left: 0px}
